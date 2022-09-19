@@ -41,15 +41,15 @@
 
 문제점 : 집 안을 돌아다니면서 초음파센서로 장애물 탐지를 하는데 있어서 크기에 비해 초음파 센서 하나로는 감지가 어려운것을 파악 하였고, 이러한 문제점을 해결하기 위하여 초음파 센서 밑에 서보모터를 달아서 초음파 센서를 회전시키며 전방에 대한 장애물 감지를 조금더 용이하게 할수 있도록 진행하였습니다.
 
-![초음파센서 + 서보모터](https://user-images.githubusercontent.com/102634570/190965733-e00f1dbc-c1a3-44aa-80fa-bfe12ff47166.jpg)
+<img src ="https://user-images.githubusercontent.com/102634570/190965733-e00f1dbc-c1a3-44aa-80fa-bfe12ff47166.jpg" width="200" height="400"/>
 
 문제점 : 바퀴의 경우 2개만 달경우 안정성이 떨어져서 무게추를 다는것, 앞쪽에 바퀴 하나를 더 다는것, 바퀴를 총 4개를 다는것으로 안정성 확보를 위해여 3개의 방안을 준비했지만 앞서 말한 2가지의 경우 제자리에서 방향 전환에 있어서 어려움을 확인하고 4개의 바퀴를 달아서 제자리 회전에 있어서 용이할수 있도록 만들고 추가적으로 안정성까지 확보 할 수 있었습니다.
 
-![아두이노 바퀴](https://user-images.githubusercontent.com/102634570/190965739-bc1092a0-7277-4e8d-9e70-000d3114d208.jpg)
+<img src ="https://user-images.githubusercontent.com/102634570/190965739-bc1092a0-7277-4e8d-9e70-000d3114d208.jpg" width="200" height="400"/>
 
 문제점 : 전원 같은경우 무선으로 움직이는데 있어서 배터리 장착에 대한 필요성을 느끼고 배터리 부착을 통한 무선으로 움직일수 있도록 설계하였고 충전식 건전지와 배터리 홀더를 통하여 무선으로도 작동을 가능하게 할 수 있도록 설계 진행하였습니다
     
-![배털](https://user-images.githubusercontent.com/102634570/190965742-aad2eaee-6b0e-4e7f-a646-d62e52f519be.jpg)
+<img src = "https://user-images.githubusercontent.com/102634570/190965742-aad2eaee-6b0e-4e7f-a646-d62e52f519be.jpg" width="200" height="400"/>
 
 - 피드백 이후 공기청정기 + 로봇청소기로 주제 설정 변경
 공기청정기 및 바퀴 분해이후 3D맵핑에 필요한 YDLIDER 구매 후 ubuntu 설치 및 ROS 학습 진행
