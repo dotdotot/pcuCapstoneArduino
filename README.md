@@ -54,7 +54,7 @@
 - 피드백 이후 공기청정기 + 로봇청소기로 주제 설정 변경
 공기청정기 및 바퀴 분해이후 3D맵핑에 필요한 YDLIDER 구매 후 ubuntu 설치 및 ROS 학습 진행
 
-<[라이더 센서]src = "https://user-images.githubusercontent.com/102634570/190965748-22064bc4-864b-412e-81c9-a96c8374d6f1.jpg" width="200" height="400"/>
+<라이더 센서 src = "https://user-images.githubusercontent.com/102634570/190965748-22064bc4-864b-412e-81c9-a96c8374d6f1.png" width="200" height="400"/>
 
 문제점 : ubuntu의 버전 충돌 및 ROS연계에 대하여 에러발생
      -> 우분투 다운그레이드 및 ROS재설치 진행
