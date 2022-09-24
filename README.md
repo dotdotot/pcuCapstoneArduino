@@ -71,7 +71,8 @@ ydlidar X4 연결 후 포인터 맵핑 확인
 
 <img src = "https://user-images.githubusercontent.com/102634570/192092874-12780eab-358f-4130-bc26-f5ef323442c2.jpg" width="200" height="400"/>
 
-
+포인터 맵핑을통한 SLAM 준비 및 학습 진행중 ~09/24
+-SLAM -> Simultaneous Localization and Mapping
 
 
 
