@@ -62,9 +62,14 @@
         -> ubuntu의 부족한 학습 및 익숙하지 않은 소프트웨어 및 할당량 부족등등 이유로 ubuntu에서 window ROS로 변경
     
 -Window ROS로 변경후 설치 및 학습 진행
-    - ROS설치 이후 gozabo 학습 진행 ~2022.09.19
 
+윈도우 ROS설치 이후 실행 확인 및 gazebo를 통한 맵핑방법 및 진행 학습
 
+<img src = "https://user-images.githubusercontent.com/102634570/192092876-e92c00b3-8cfb-4f5a-ba20-f8d313087eb4.jpg" width="200" height="400"/>
+
+ydlidar X4 연결 후 포인터 맵핑 확인
+
+<img src = "https://user-images.githubusercontent.com/102634570/192092874-12780eab-358f-4130-bc26-f5ef323442c2.jpg" width="200" height="400"/>
 
 
 
@@ -72,13 +77,13 @@
 
 
 참고 사이트
-- 아두이노 공기청정기 회로도 : https://www.youtube.com/watch?v=riergzv41AU
-- 아두이노 공기청정기 프레임 : https://www.youtube.com/watch?v=riergzv41AU
-- 아두이노 bp랩 코드 및 바퀴 코딩 : https://github.com/yoonsongjik/Capstone-Design
-- 우분투 설치 : https://ubuntu.com/download/desktop
-- 우분투 ROS설치 :https://krobot.tistory.com/entry/ROS-ubuntu-1804%EC%97%90%EC%84%9C-ROS-melodic-%EC%84%A4%EC%B9%98%ED%95%98%EA%B8%B0
--우분투 ROS : https://taemian.tistory.com/entry/1-2-ROS-%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0
-- 우분투 다운그레이드 18.04 버전 : https://dora-guide.com/ubuntu-download/
-- 윈도우 ROS 설치 : https://medium.com/@cyjun0304/%EC%9C%88%EB%8F%84%EC%9A%B0-10%EC%97%90-ros-melodic-%EC%84%A4%EC%B9%98%ED%95%98%EA%B8%B0-d2412168aeb4
-- 윈도우 ROS설치 영상 : https://www.youtube.com/watch?v=mO_ilabG63I
-- gozebo 학습 : https://blog.naver.com/PostView.nhn?blogId=ycpiglet&logNo=222158109284&categoryNo=90&parentCategoryNo=0
+    - 아두이노 공기청정기 회로도 : https://www.youtube.com/watch?v=riergzv41AU
+    - 아두이노 공기청정기 프레임 : https://www.youtube.com/watch?v=riergzv41AU
+    - 아두이노 bp랩 코드 및 바퀴 코딩 : https://github.com/yoonsongjik/Capstone-Design
+    - 우분투 설치 : https://ubuntu.com/download/desktop
+    - 우분투 ROS설치 :https://krobot.tistory.com/entry/ROS-ubuntu-1804%EC%97%90%EC%84%9C-ROS-melodic-%EC%84%A4%EC%B9%98%ED%95%98%EA%B8%B0
+    -우분투 ROS : https://taemian.tistory.com/entry/1-2-ROS-%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0
+    - 우분투 다운그레이드 18.04 버전 : https://dora-guide.com/ubuntu-download/
+    - 윈도우 ROS 설치 : https://medium.com/@cyjun0304/%EC%9C%88%EB%8F%84%EC%9A%B0-10%EC%97%90-ros-melodic-%EC%84%A4%EC%B9%98%ED%95%98%EA%B8%B0-d2412168aeb4
+    - 윈도우 ROS설치 영상 : https://www.youtube.com/watch?v=mO_ilabG63I
+    - gozebo 학습 : https://blog.naver.com/PostView.nhn?blogId=ycpiglet&logNo=222158109284&categoryNo=90&parentCategoryNo=0
