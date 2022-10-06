@@ -107,3 +107,5 @@ VirualBox 설치 후 ROS 설치 진행
     - 윈도우 ROS설치 영상 : https://www.youtube.com/watch?v=mO_ilabG63I
     - gozebo 학습 : https://blog.naver.com/PostView.nhn?blogId=ycpiglet&logNo=222158109284&categoryNo=90&parentCategoryNo=0
     - Virual Box 설치 및 gazebo, ROS설치  : https://mrdevelop.tistory.com/entry/gazebo-px4?category=872860
+    - ydlidar ROS : https://github.com/YDLIDAR/ydlidar_ros_driver
+    - ydlidar SDK : https://github.com/YDLIDAR/YDLidar-SDK
