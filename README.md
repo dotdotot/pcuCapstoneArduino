@@ -74,8 +74,9 @@ VirualBox 설치 후 ROS 설치 진행
 문제점 : SDK파일에 문제가 있어서 CMAKE 실행중 에러발생
 -> SDK 파일에 오류가 있어서 SDK파일을 다시 다운로드 이후 실행 진행하였습니다.
 
-![KakaoTalk_20221105_183328093](https://user-images.githubusercontent.com/102634570/200113568-4060bda0-256e-4e2f-a0a6-9d944e68fd45.png)
+<img src ="https://user-images.githubusercontent.com/102634570/200113568-4060bda0-256e-4e2f-a0a6-9d944e68fd45.png" width="300" height="300">
 
+<img src="/img/myImg.png" width="300" height="300">
 
 이후 Virtual Box의 Rivs를 통해 포인터 매핑이 진행되는것을 확인하였고 하드웨어 제작 진행에 진입하였습니다
 
