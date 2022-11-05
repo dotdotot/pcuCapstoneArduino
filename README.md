@@ -54,6 +54,10 @@ ydlidar X4 연결 후 포인터 맵핑 확인
 포인터 맵핑을통한 SLAM 준비 및 학습 진행중
 -SLAM -> Simultaneous Localization and Mapping
 
+윈도우 ROS를 통하여 포인터 매핑 진행되는 것을 확인하였고 이것을 통하여 위치확인까지 가능한지 확인하였습니다
+
+![KakaoTalk_20220924_192040484](https://user-images.githubusercontent.com/102634570/192092874-12780eab-358f-4130-bc26-f5ef323442c2.jpg)
+
 문제점 : 윈도우 ROS의 정보 부족으로 인한 학습 진행에 어려움 -> Oracle VM VirualBox를 통한 우분투 설치 
 -> VirtualBox를 통해서 우분투의 버전 교체의 용이함과 우분투 사용을 위한 재부팅을 최소화가능, 또한 우분투 ROS를 통해서 버전 확인 후 ROS에 대한 정보 및 맵핑 학습 진행 가능
 
@@ -61,11 +65,17 @@ VirualBox 설치 후 ROS 설치 진행
 
 문제점 : ROS설치중 에러발생 -> 버전에 따른 패키지 이름 변경 및 수정사항을 확인하였고, 수정 및 교체 작업을 진행하여서 설치 완료 했습니다.
 
+![KakaoTalk_20220924_192211714](https://user-images.githubusercontent.com/102634570/192092876-e92c00b3-8cfb-4f5a-ba20-f8d313087eb4.jpg)
+
+
 문제점 : ROS설치 이후 ydlidar 연동 이후 패키지 복제에서 알수없는 주소로 인한 패키지 복제에 실패 
 -> 확인결과 https://github.com/YDLIDAR/YDLIDAR_ros 가 https://github.com/YDLIDAR/YDLIDAR_ros_driver로 변경된것을 확인 주소값 수정 이후 해결하였습니다
 
 문제점 : SDK파일에 문제가 있어서 CMAKE 실행중 에러발생
 -> SDK 파일에 오류가 있어서 SDK파일을 다시 다운로드 이후 실행 진행하였습니다.
+
+![KakaoTalk_20221105_183328093](https://user-images.githubusercontent.com/102634570/200113568-4060bda0-256e-4e2f-a0a6-9d944e68fd45.png)
+
 
 이후 Virtual Box의 Rivs를 통해 포인터 매핑이 진행되는것을 확인하였고 하드웨어 제작 진행에 진입하였습니다
 
